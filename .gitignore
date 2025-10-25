@@ -1,0 +1,22 @@
+
+# Ignorar archivos binarios
+*.class
+*.exe
+
+# Ignorar archivos temporales de editores
+*.log
+*.tmp
+*.swp
+
+# Ignorar directorios de compilación
+/build/
+/target/
+
+# Ignorar imágenes y archivos de música
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.mp3
+*.wav
