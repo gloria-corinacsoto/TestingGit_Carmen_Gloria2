@@ -20,3 +20,9 @@
 *.bmp
 *.mp3
 *.wav
+
+
+# Ignorar archivos de NetBeans
+/nbproject/
+/build.xml
+/manifest.mf
